@@ -18,7 +18,7 @@ export default function Nav() {
           </li>
           <li>
             <Link to="/movies">All Movies</Link>
-          </li>
+    </li>
         </ul>
       </nav>
     </header>

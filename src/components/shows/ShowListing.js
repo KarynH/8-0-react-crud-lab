@@ -22,5 +22,4 @@ export default function ShowListing({ show }) {
 }
 //similar to birdCard/student card show listing takes data
 //takes show as a prop and display that corresponsind information
-
-//show is used as a property name to access the data gathered in show comp
+//show is used as a property name to access the data used in show comp
